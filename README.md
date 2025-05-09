@@ -8,7 +8,7 @@ Final project in C++ for the PROG curricular unit.
 - Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501671
 - Description: [Project-description](https://github.com/user-attachments/files/15968835/Project-description.pdf)
 
-## Authors:
+## Authors
 - Luana Lima, up202206845
 - Pedro Marinho, up202206854
 - Sérgio Nossa, up202206856
