@@ -6,7 +6,7 @@ Final project in C++ for the PROG curricular unit.
 - Date: 1st Year, 2nd Semester
 - Course: Programação | Programming
 - Course Link: https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=501671
-- Description: [Project-description](https://github.com/user-attachments/files/15968835/Project-description.pdf)
+- Description: [Project-description](Project-description.pdf)
 
 ## Authors
 - Luana Lima, up202206845
